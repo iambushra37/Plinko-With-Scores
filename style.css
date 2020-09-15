@@ -3,6 +3,7 @@ html, body {
   padding: 0;
 }
 canvas {
+  margin:auto;
   display: block;
   border : 8px solid maroon;
 } 
